@@ -1,6 +1,8 @@
 Project Title: Minimum Spanning Tree Analysis (Connecting Buildings)
 Course: CS315 - Algorithm Analysis and Design
 
+Depth First Search (DFS)
+
 Group Members:
 1. Khaled Gamal - ID: [Your ID]
 2. [Member Name] - ID: [ID]
